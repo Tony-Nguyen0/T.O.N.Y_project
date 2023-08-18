@@ -19,6 +19,8 @@ Make sure your display scaling is set to 100%. To check, open display settings a
 
 Once you open application by running the python file in spyder.
 
+or by clicking the The_Only_Necessary_Yeeter.exe file.
+
 This window should appear:
 
 ![](./MD_pictures/Aspose.Words.d8854a28-23e1-4bd4-b75d-5cb227a9e63e.002.png)
